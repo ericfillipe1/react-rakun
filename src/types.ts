@@ -25,9 +25,7 @@ export type Loadable<T> =
 
 
 
-export type RakunRootContext = RakunMono<Void>
-
-
+export type RakunRootContext = RakunMono<typeof Void>
 export type RakunRootProps = {
     value: RakunMono<any>
     children: React.ReactNode,
