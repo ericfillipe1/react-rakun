@@ -97,6 +97,6 @@
     "yup": "^0.32.9"
   },
   "dependencies": {
-    "rakun": "0.0.0-alpha.31"
+    "rakun": "0.0.0-alpha.32"
   }
 }
