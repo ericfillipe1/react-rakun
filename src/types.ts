@@ -1,6 +1,4 @@
 import { RakunMono, Void } from "rakun";
-export type Resetter = () => void;
-export type SetterOrUpdater<T> = (valOrUpdater: ((currVal: T) => T) | T) => void;
 
 
 interface ValueLoadable<T> {
