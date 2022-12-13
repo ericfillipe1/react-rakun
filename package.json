@@ -1,6 +1,6 @@
 {
   "name": "react-rakun",
-  "version": "0.0.0-alpha.1",
+  "version": "0.0.0-alpha.2",
   "description": "",
   "types": "./types/src/index.d.ts",
   "main": "cjs/react-rakun.js",
@@ -97,6 +97,6 @@
     "yup": "^0.32.9"
   },
   "dependencies": {
-    "rakun": "0.0.0-alpha.31"
+    "rakun": "0.0.0-alpha.32"
   }
 }
